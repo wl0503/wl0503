@@ -4,12 +4,18 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## William's page
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+<img src="images/CS photo.jpg" alt="computer science" height="250" width="500">
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+## About me
+
+Hello, I am William Lee. I am 16 years old junior at Del Norte High School. I am very interested in coding, so I decided to take this class. Even though I am new at coding, I will enjoy and try my best in this class.
+
+
+## Freeform picture
+
+<img src="images/20230907_122909.jpg" alt="freeform photo" height="350"
+width="300">
+
+This is the photo, which shows I am playing with my dog. When I have free time, I usually spend time playing with my dog. Under the photo, there are two flags; the one is Korea flag, and the other is America flag. They represent my dual identities. 
