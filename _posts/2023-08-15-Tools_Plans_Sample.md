@@ -3,14 +3,14 @@ toc: true
 comments: false
 layout: post
 title: Plan for week 0
-description: Example Blog!!!  This shows planning and notes from hacks.
+description: This page is designed to explain the plan for week 0
 type: plans
 courses: { compsci: {week: 0} }
 ---
 
 ### PBL Unit 1 / Week 0
-Learning outcome.  Installing Tools and showing usage of VSCode.
-- Wednesday - Pick pair share partner, Pick crossover pair, Establish team of four.  Spend some time talking and getting to know each other, particularly with Computer Science experience and goals.  You should be matched with someone that has similar experience.
-- Thursday - Setup Tools on laptop and/or Cloud Computer.
-- Friday - Review and test as a Pair. Spend 25 minutes at one keyboard then switch for next 25 minutes.
+Daily goals for week 0: 
+- Wednesday - Getting to know about partner, Creating a github account and user in databse, Reading the article, "Pair Programming" and "Tools and Equipment Overview. 
+- Thursday - Setup Tools on laptop and/or Cloud Computer; installing Vscode, Setting up a github page, and Building a student page.  
+- Friday - Working on a student webpage design, index.md in Vscode, and sending it to a github page so that I can see it on both of the sites. Previwing the article, "Python IO" for week 1. 
 
