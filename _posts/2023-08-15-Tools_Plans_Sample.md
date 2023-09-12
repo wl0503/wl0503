@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: post
+layout: postm
 title: Plan for week 0
 description: This page is designed to explain the plan for week 0
 type: plans

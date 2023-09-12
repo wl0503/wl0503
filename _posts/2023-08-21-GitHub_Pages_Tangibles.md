@@ -8,16 +8,13 @@ type: tangibles
 courses: { compsci: {week: 1} }
 ---
 
-### Summary of Accomplishments
-> Update Blog to contain all hacks.  
-- Reviewed with Pair.  Discuss/Show evidence.
-- Discuss laptop, cloud computer.
-- Discuss tools setup and troubles.
-- Show personal blog / home page.
-- Show how you are maintaining notes, answering hacks, and showing tangibles.  
-- How have you learned Markdown, HTML, CSS, JavaScript.
-- Show Jupyter Notebooks and how you have added and organized them in the blog.
-- Show evidence of using Slack Account, show app installed on Laptop and/or phone.  Show awared of #annoncements, #general, #coding.
-- Run make commands to build and test blog locally, before pushing changes to GitHub pages.
-- Discuss GitHub Account, show ability to push/pull changes from VSCode.
-- Discuss development on Themes, show how you plan to organized lab notebook.
+### Struggles of week 1
+- Python IO article was hard to understand, thus it made me spend a lot of time
+- The process to make my own quiz such as snake game and grab a game was difficult
+- I stuggled with understanding key concepts related to git hub pages
+- Since I was absent last week, I need to catch up the class. 
+
+### smmary of acommplishments of week 1
+- I prepared for live review 1, tool check
+- I decorated my web page and satisfied the conditions listed in the tool check hack. 
+- I customized the theme of my git hub pages site. 
