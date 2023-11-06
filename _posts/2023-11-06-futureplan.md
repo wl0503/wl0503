@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Future plan in Tri 2
+title: data compression
 description: 
 courses: { compsci: {week: 10} }
 type: plans
